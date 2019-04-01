@@ -1,6 +1,9 @@
 # divisible
 .NET CORE divisible console program
 
+## disclosure
+Program supports until the million(s) when calling the outputter.
+
 ## running in cmd
 cd [repository]  
 cd divisible  
